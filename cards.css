@@ -20,12 +20,14 @@ body{
 }
 .list__title{
   text-align: center; 
+  font-family: 'Montserrat', sans-serif;
 }
 .info__item{
   list-style: circle; 
   font-size: 18px; 
+  font-family: 'Montserrat', sans-serif;
 }
 .highlightCard{
   font-weight: bold;
-  background-color: tan;
+  background-color: rgb(180, 170, 170);
 }
